@@ -8,6 +8,7 @@ public class BetterreadsDataLoaderApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BetterreadsDataLoaderApplication.class, args);
+
 	}
 
 }
