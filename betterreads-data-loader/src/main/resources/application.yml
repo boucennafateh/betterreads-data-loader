@@ -2,8 +2,8 @@ spring:
   data:
     cassandra:
       keyspace-name: main
-      username: FuIPfPBHEUZwtscBbyvnHvJL
-      password: bUynhbhvn_LD9r6mvHqKZi_l.3tI_E_j-4L-P-hhgNN-3i-c,cPfDaaUhioFOQ6vKGfyB1aY-iMf.0G2TJ4Gbh2TRQmdyasZiClcdHqMQUs3OB5b05pK6aR76KbKiN5g
+      username: 
+      password:
       schema-action: recreate
       request:
         timeout: 10s
@@ -18,11 +18,11 @@ astra.db:
   id: 38333067-942a-46a7-978e-894613d9e4a7-1
   region: westeurope
   keyspace: main
-  application.token: AstraCS:FuIPfPBHEUZwtscBbyvnHvJL:a4c94b308bd30ea9038636c385a150bbb6644a2f7aacb2dee59173f9aabcfb14
+  application.token:
 
 datadump.location:
-  author: /home/fate7/workspace/betterreads/betterreads-data-loader/test-authors.txt
-  works: /home/fate7/workspace/betterreads/betterreads-data-loader/test-works.txt
+  author: 
+  works: 
 
 
 
